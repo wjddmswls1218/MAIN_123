@@ -1,0 +1,170 @@
+.app {
+    width: 100%;
+}
+
+.app1 {
+    width: 100%;
+    height: 70px;
+    background-color: blue;
+}
+
+.app2 {
+    width: 100%;
+    height: 700px;
+    background-color: black;
+}
+
+.app3 {
+    width: 100%;
+    height: 300px;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+}
+
+.app_col1 {
+    width: 50%;
+    height: 100%;
+    background-color: cornflowerblue;
+}
+
+.app_col2 {
+    width: 50%;
+    height: 100%;
+    background-color: crimson;
+}
+
+.app_col1_A {
+    width: 100%;
+    height: 150px;
+    background-color: darkblue;
+}
+
+.app_col1_B {
+    width: 100%;
+    height: 150px;
+    background-color: darkcyan;
+
+}
+
+.app4 {
+    width: 100%;
+    height: 150px;
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+}
+
+.app4_col1 {
+    width: 20%;
+    height: 100%;
+    background-color: darkgoldenrod;
+}
+
+.app4_col2 {
+    width: 20%;
+    height: 100%;
+    background-color: darkgreen;
+}
+
+.app4_col3 {
+    width: 20%;
+    height: 100%;
+    background-color: darkgrey;
+}
+
+.app4_col4 {
+    width: 20%;
+    height: 100%;
+    background-color: darkmagenta;
+}
+
+.app4_col5 {
+    width: 20%;
+    height: 100%;
+    background-color: darkorange;
+}
+
+.app5 {
+    width: 100%;
+    height: 250px;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+}
+
+.app5_col1 {
+    width: 20%;
+    height: 100%;
+    background-color: darkred;
+}
+
+.app5_col2 {
+    width: 1350px;
+    height: 100%;
+    background-color: darksalmon;
+}
+
+.app5_col3 {
+    width: 20%;
+    height: 100%;
+    background-color: darkseagreen;
+}
+
+.app6 {
+    width: 100%;
+    height: 100px;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+}
+
+.app6_col1 {
+    width: 300px;
+    height: 100%;
+    background-color: darkslateblue;
+}
+
+.app6_col2 {
+    width: 100%;
+    height: 100%;
+    background-color: darkslategrey;
+}
+
+.app7 {
+    width: 100%;
+    height: 110px;
+    background-color: chocolate;
+    display: flex;
+    flex-direction: row;
+}
+
+.app7_col1 {
+    width: 300px;
+    height: 100%;
+    background-color: darkviolet;
+}
+
+.app7_col2 {
+    width: 100%;
+    height: 100%;
+    background-color: deepskyblue;
+}
+
+.app7_col3 {
+    width: 300px;
+    height: 100%;
+    background-color: dimgray;
+}
+
+.app7_col3_A {
+    width: 100%;
+    height: 60;
+    background-color: dodgerblue;
+}
+
+.app7_col3_B {
+    width: 100%;
+    height: 50px;
+    background-color: firebrick;
+}
